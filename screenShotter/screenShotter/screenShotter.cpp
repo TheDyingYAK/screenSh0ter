@@ -1,3 +1,5 @@
+// Written by TheDyingYak 20251015
+// For research purposes only
 #define _CRT_SECURE_NO_WARNINGS
 #include <windows.h>
 #include <string>
